@@ -8,8 +8,8 @@ Environment Variables
 2. BW_CLIENTSECRET
 3. BW_PASSWORD
 
-
 ```bash
 bw login --apikey
 bw unlock --passwordenv BW_PASSWORD
 ```
+
